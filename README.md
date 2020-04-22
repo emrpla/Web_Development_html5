@@ -1,1 +1,1 @@
-# Web_Development_html5
+#Sadece Html Kodları kullanılacaktır bu bölümde.
